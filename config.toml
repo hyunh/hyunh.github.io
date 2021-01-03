@@ -11,11 +11,20 @@ theme = "hugo-book"
   BookTheme = "auto"
   BookToC = false
 
-[languages]
 [languages.en]
   languageName = 'English'
   weight = 1
 
 [languages.ko]
   languageName = 'Korean'
+  weight = 2
+
+[[menu.icon]]
+  name = "github"
+  url = "https://github.com/hyunh"
+  weight = 1
+
+[[menu.icon]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/hyunhae-lee-143a16123/"
   weight = 2
