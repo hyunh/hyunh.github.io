@@ -1,3 +1,21 @@
 baseURL = "https://hyunh.github.io/"
 languageCode = "en-us"
 title = "HyunH"
+theme = "hugo-book"
+
+[markup]
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  BookTheme = "auto"
+  BookToC = false
+
+[languages]
+[languages.en]
+  languageName = 'English'
+  weight = 1
+
+[languages.ko]
+  languageName = 'Korean'
+  weight = 2
