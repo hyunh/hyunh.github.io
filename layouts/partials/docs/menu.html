@@ -18,13 +18,21 @@
 {{ partial "docs/inject/menu-after" . }}
 
 {{ if .Site.Menus.icon }}
+
 <hr>
+
 <div style="font-size: 150%">
   {{ range sort .Site.Menus.icon }}
     <a href="{{.URL}}"><i class="fab fa-{{.Name}}"></i></a>
   {{ end }}
 </div>
 {{ end }}
+
+<div style="font-size: 80%">
+<p>
+  &#169; 2021. <a href="https://github.com/hyunh">HyunH</a><p>
+  Themed by <a href="https://github.com/alex-shpak/hugo-book">Hugo Book</a>
+</div>
 </nav>
 
 <!-- Restore menu position as soon as possible to avoid flickering -->
