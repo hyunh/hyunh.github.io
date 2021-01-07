@@ -20,11 +20,16 @@ theme = "hugo-book"
   weight = 2
 
 [[menu.icon]]
-  name = "github"
+  name = "fab fa-github"
   url = "https://github.com/hyunh"
   weight = 1
 
 [[menu.icon]]
-  name = "linkedin"
+  name = "fab fa-linkedin"
   url = "https://www.linkedin.com/in/hyunhae-lee-143a16123/"
   weight = 2
+
+[[menu.icon]]
+  name = "far fa-envelope"
+  url = "mailto:hyunhae.lee@gmail.com"
+  weight = 3

@@ -23,7 +23,7 @@
 
 <div style="font-size: 150%">
   {{ range sort .Site.Menus.icon }}
-    <a href="{{.URL}}"><i class="fab fa-{{.Name}}"></i></a>
+    <a href="{{.URL}}"><i class="{{.Name}}"></i></a>
   {{ end }}
 </div>
 {{ end }}
