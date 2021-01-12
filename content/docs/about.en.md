@@ -10,7 +10,7 @@ Hyunhae Lee
 * Seoul, Republic of Korea
 * Korea Aerospace University (2006. 03 ~ 2013. 08) <br> 
   Bachelor's degree in Computer Science
-* Serviced (2008. 03 ~ 2010. 01) as a KATUSA(Korean Augmentation to the United States Army) in 2nd Infantry Division
+* Served (2008. 03 ~ 2010. 01) as a KATUSA(Korean Augmentation to the United States Army) in 2nd Infantry Division
 
 This is Android software engineer who is love to write and review code.
 I have 7+ years working experience in LG Electornics, for developing UICC functionality in Android devices.
@@ -49,6 +49,12 @@ I Love to learn new tech and will try keeping studying to get sustainability.
 
 ## Project
 ***
+
+* #### Android devices
+  * Participate many mobile device projects (eg. LG G/V model series)
+
+* #### LG SIM Toolkit Application
+  * Re-design SIM Toolkit Application which is originally part of AOSP(Android Open Source Project) ([Stk](https://android.googlesource.com/platform/packages/apps/Stk/))
 
 * #### UICC Explorer
   * Android application
