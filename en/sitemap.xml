@@ -48,6 +48,10 @@
   </url>
   
   <url>
+    <loc>https://hyunh.github.io/posts/hugo/</loc>
+  </url>
+  
+  <url>
     <loc>https://hyunh.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -59,6 +63,10 @@
                 hreflang="en"
                 href="https://hyunh.github.io/categories/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://hyunh.github.io/posts/</loc>
   </url>
   
   <url>
