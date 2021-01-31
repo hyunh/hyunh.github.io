@@ -1,0 +1,22 @@
+{{ define "main" }}
+  <main aria-role="main">
+    <header class="homepage-header">
+      <h1>{{.Title}}</h1>
+        {{ with .Params.subtitle }}
+        <span class="subtitle">{{.}}</span>
+        {{ end }}
+    </header>
+
+    <div class="homepage-content">
+      <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
+      {{.Content}}
+    </div>
+    <div>
+      {{ range where .Site.RegularPages "Type" "posts" }}
+        <p>
+          <li><a href="{{.Permalink}}">{{.Title}}</a></li>
+        </p>
+      {{ end }}
+    </div>
+  </main>
+{{ end }}
