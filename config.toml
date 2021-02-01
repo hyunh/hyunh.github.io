@@ -8,6 +8,7 @@ theme = "hugo-book"
   unsafe = true
 
 [params]
+  BookDateFormat = '2006-01-02'
   BookTheme = "auto"
   BookToC = false
 
