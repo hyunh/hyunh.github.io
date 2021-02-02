@@ -2,5 +2,5 @@
 menu:
   after:
     name: hugo
-    weight: 1
+    weight: 2
 ---
