@@ -5,6 +5,20 @@
     <link>https://hyunh.github.io/posts/hugo/</link>
     <description>Recent content on HyunH</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://hyunh.github.io/posts/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hyunh.github.io/posts/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build github page with Hugo</title>
+      <link>https://hyunh.github.io/posts/hugo/2021-02-02/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyunh.github.io/posts/hugo/2021-02-02/</guid>
+      <description>시작하기 전에   github 페이지 는 github.io 주소로 블로그 및 홈페이지를 만들 수 있도록 제공하고 있다.
+아래와 같은 정적 사이트 생성기(Static Site Generator)와 각각의 테마를 잘 활용하면 원하는 화면 구성으로 블로그를 쉽게(?) 구축 할 수 있다.
+ Jekyll Hugo Hexo  github 페이지에서 Jekyll을 소개하고, 많이 사용되면서 테마도 많이 있다고 하지만, 여기서는 Hugo를 사용한 방법을 정리하도록 한다.
+Hugo를 사용한 이유는
+ Go 언어로 작성되어 있다고 하고, (크게 의미는 없다.) 가볍고 빠르다고 하며, Jeykll은 Ruby를 사용해야 하고, 별도 설치를 해야 한다는 점에서  Hugo가 더 끌렸던 것 같다.</description>
+    </item>
+    
   </channel>
 </rss>
