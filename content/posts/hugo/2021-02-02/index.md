@@ -62,7 +62,7 @@ github 페이지는 아래와 같이 미리 정해진 repository 이름으로 �
 
 <div class="textbox">
 ~/github/hyunh.github.io.work$ git init<br>
-~/github/hyunh.github.io.work$ git remote add origin https://github.com/hyunh.github.io.git<br>
+~/github/hyunh.github.io.work$ git remote add origin https://github.com/hyunh/hyunh.github.io.git<br>
 ~/github/hyunh.github.io.work$ git fetch origin
 </div>
 
